@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOPs%20on%20AWS/Mlflow-demo/mlruns/0/64a1c988da9c44bb9bd3e8d76db1fea9/artifacts
+end_time: 1706333441318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64a1c988da9c44bb9bd3e8d76db1fea9
+run_name: able-rat-520
+run_uuid: 64a1c988da9c44bb9bd3e8d76db1fea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706333438156
+status: 3
+tags: []
+user_id: Juwel
