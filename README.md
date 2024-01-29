@@ -8,6 +8,7 @@ pip install -r requirements.txt
 '''
 
 '''mlflow run https://github.com/mdshohidul143/Mlflow-demo'''
+
 '''mlflow ui'''
 
 '''
