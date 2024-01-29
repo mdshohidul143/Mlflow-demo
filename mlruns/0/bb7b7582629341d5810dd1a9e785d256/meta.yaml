@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOPs%20on%20AWS/Mlflow-demo/mlruns/0/bb7b7582629341d5810dd1a9e785d256/artifacts
+end_time: 1706334665212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb7b7582629341d5810dd1a9e785d256
+run_name: crawling-crow-796
+run_uuid: bb7b7582629341d5810dd1a9e785d256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706334662062
+status: 3
+tags: []
+user_id: Juwel
